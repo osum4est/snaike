@@ -1,0 +1,6 @@
+/home/osum4est/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/163.10154.43/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE= -G "CodeBlocks - Unix Makefiles" /home/osum4est/gdrive/snaike
+-- Could NOT find Vulkan (missing:  VULKAN_LIBRARY VULKAN_INCLUDE_DIR) 
+-- Using X11 for window creation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/osum4est/gdrive/snaike

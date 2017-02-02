@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+0dba4c6d5149f54a1877e3d2728f2704 glad-0.1.13a0/src/glad.c
+aaa169a9c7d578ef3fd220be99ce50b9 glfw-3.2.1/CMakeFiles/uninstall

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GLAD"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\glad-0.1.13a0\;CMake Files\glfw-3.2.1\;CMake Files\glfw-3.2.1\CMake\;CMake Files\glfw-3.2.1\CMake\modules\;CMake Files\glfw-3.2.1\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glad">
+				<Option output="/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/libglad.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/../../../../include/c++/6.3.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/../../../../include/c++/6.3.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/Makefile&quot;  VERBOSE=1 glad"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glad/fast">
+				<Option output="/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/libglad.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/include-fixed"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/../../../../include/c++/6.3.1"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/../../../../include/c++/6.3.1/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/6.3.1/../../../../include/c++/6.3.1/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/Makefile&quot;  VERBOSE=1 glad/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/osum4est/gdrive/snaike/cmake-build-debug/glad-0.1.13a0/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/osum4est/gdrive/snaike/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glad-0.1.13a0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\glad-0.1.13a0\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glad-0.1.13a0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\glad-0.1.13a0\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/cmake_uninstall.cmake.in">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/cmake_uninstall.cmake.in">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/CMake/modules/FindVulkan.cmake">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\CMake\modules\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/CMake/modules/FindVulkan.cmake">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\CMake\modules\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/src/glfw3Config.cmake.in">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/src/glfw_config.h.in">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/src/glfw3.pc.in">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/src/glfw3Config.cmake.in">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/src/glfw_config.h.in">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/src/glfw3.pc.in">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\src\"/>
+		</Unit>
+		<Unit filename="/home/osum4est/gdrive/snaike/glfw-3.2.1/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\glfw-3.2.1\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
